@@ -1,4 +1,4 @@
-# MadelineProto, a PHP MTProto telegram client
+# MadelineProto, a PHP MTProto telegram telegram
 
 Created by <a href="https://daniil.it" target="_blank" rel="noopener">Daniil Gentili</a>
 
